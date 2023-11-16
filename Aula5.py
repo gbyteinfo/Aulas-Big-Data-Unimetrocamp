@@ -2,22 +2,27 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Carregar os dados corrigidos do arquivo CSV
-file_path = 'caminho_para_o_arquivo_corrigido.csv'
-dados_incendios = pd.read_csv(file_path)
+# Carregar os dados do arquivo CSV corrigido do GitHub
+url = "https://raw.githubusercontent.com/gbyteinfo/Aulas-Big-Data-Unimetrocamp/develop/dados_incendios_brasil.csv"
+dados_incendios = pd.read_csv(url)
 
-# Análise Exploratória Básica
-print("Informações Básicas do DataFrame:")
+print("\n********Análise Exploratória Básica********")
 print(dados_incendios.info())
+print("*******************************************\n")
 
-print("\nAlgumas Estatísticas Descritivas:")
+print("\n*****Algumas Estatísticas Descritivas:*****")
 print(dados_incendios.describe())
+print("*******************************************\n")
 
-# Análise de dados específicos
+print("\n*****Total de incêndios por estado:*****")
 # Exemplo: Total de incêndios por estado
 total_incendios_por_estado = dados_incendios.groupby('state')['number'].sum().sort_values(ascending=False)
 print("\nTotal de Incêndios por Estado:")
 print(total_incendios_por_estado)
+print("*******************************************\n")
+
+
+##########################Grafico#########################
 
 # Visualização: Gráfico de Barras do Total de Incêndios por Estado
 plt.figure(figsize=(12, 6))
