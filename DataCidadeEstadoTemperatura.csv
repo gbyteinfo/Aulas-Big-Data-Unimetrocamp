@@ -1,0 +1,336 @@
+Data,Cidade,Estado,Temperatura
+2023-01-01,São Paulo,SP,30.5
+2023-01-01,Rio de Janeiro,RJ,32.2
+2023-01-01,Salvador,BA,28.8
+2023-01-02,São Paulo,SP,31.2
+2023-01-02,Rio de Janeiro,RJ,33.0
+2023-01-02,Salvador,BA,29.5
+2023-01-03,São Paulo,SP,29.8
+2023-01-03,Rio de Janeiro,RJ,32.5
+2023-01-03,Salvador,BA,27.9
+2023-01-04,São Paulo,SP,30.7
+2023-01-04,Rio de Janeiro,RJ,33.5
+2023-01-04,Salvador,BA,28.2
+2023-01-05,São Paulo,SP,31.0
+2023-01-05,Rio de Janeiro,RJ,33.2
+2023-01-05,Salvador,BA,28.7
+2023-01-06,São Paulo,SP,30.2
+2023-01-06,Rio de Janeiro,RJ,32.8
+2023-01-06,Salvador,BA,28.5
+2023-01-07,São Paulo,SP,30.9
+2023-01-07,Rio de Janeiro,RJ,32.7
+2023-01-07,Salvador,BA,29.0
+2023-01-08,São Paulo,SP,30.8
+2023-01-08,Rio de Janeiro,RJ,32.6
+2023-01-08,Salvador,BA,28.8
+2023-01-09,São Paulo,SP,31.5
+2023-01-09,Rio de Janeiro,RJ,33.3
+2023-01-09,Salvador,BA,29.3
+2023-01-10,São Paulo,SP,31.2
+2023-01-10,Rio de Janeiro,RJ,33.1
+2023-01-10,Salvador,BA,29.1
+2023-01-01,São Paulo,SP,30.5
+2023-01-01,Rio de Janeiro,RJ,32.2
+2023-01-01,Salvador,BA,28.8
+2023-01-02,São Paulo,SP,31.2
+2023-01-02,Rio de Janeiro,RJ,33.0
+2023-01-02,Salvador,BA,29.5
+2023-01-03,São Paulo,SP,29.8
+2023-01-03,Rio de Janeiro,RJ,32.5
+2023-01-03,Salvador,BA,27.9
+2023-01-01,Campinas,SP,30.2
+2023-01-01,Santos,SP,29.7
+2023-01-01,Ribeirão Preto,SP,32.8
+2023-01-02,Campinas,SP,30.5
+2023-01-02,Santos,SP,30.0
+2023-01-02,Ribeirão Preto,SP,33.2
+2023-01-03,Campinas,SP,29.9
+2023-01-03,Santos,SP,30.1
+2023-01-03,Ribeirão Preto,SP,33.5
+2023-01-10,São Paulo,SP,31.2
+2023-01-10,Rio de Janeiro,RJ,33.1
+2023-01-10,Salvador,BA,29.1
+2023-01-11,São Paulo,SP,31.4
+2023-01-11,Rio de Janeiro,RJ,33.2
+2023-01-11,Salvador,BA,29.2
+2023-01-12,São Paulo,SP,31.6
+2023-01-12,Rio de Janeiro,RJ,33.3
+2023-01-12,Salvador,BA,29.4
+2023-01-13,São Paulo,SP,31.8
+2023-01-13,Rio de Janeiro,RJ,33.4
+2023-01-13,Salvador,BA,29.6
+2023-01-14,São Paulo,SP,32.0
+2023-01-14,Rio de Janeiro,RJ,33.5
+2023-01-14,Salvador,BA,29.7
+2023-01-15,São Paulo,SP,32.1
+2023-01-15,Rio de Janeiro,RJ,33.6
+2023-01-15,Salvador,BA,29.8
+2023-01-16,São Paulo,SP,32.3
+2023-01-16,Rio de Janeiro,RJ,33.7
+2023-01-16,Salvador,BA,29.9
+2023-01-17,São Paulo,SP,32.5
+2023-01-17,Rio de Janeiro,RJ,33.8
+2023-01-17,Salvador,BA,30.0
+2023-01-18,São Paulo,SP,32.7
+2023-01-18,Rio de Janeiro,RJ,33.9
+2023-01-18,Salvador,BA,30.1
+2023-01-19,São Paulo,SP,32.9
+2023-01-19,Rio de Janeiro,RJ,34.0
+2023-01-19,Salvador,BA,30.2
+2023-01-20,São Paulo,SP,33.0
+2023-01-20,Rio de Janeiro,RJ,34.1
+2023-01-20,Salvador,BA,30.3
+2023-01-21,São Paulo,SP,33.2
+2023-01-21,Rio de Janeiro,RJ,34.2
+2023-01-21,Salvador,BA,30.4
+2023-01-22,São Paulo,SP,33.3
+2023-01-22,Rio de Janeiro,RJ,34.3
+2023-01-22,Salvador,BA,30.5
+2023-01-23,São Paulo,SP,33.5
+2023-01-23,Rio de Janeiro,RJ,34.4
+2023-01-23,Salvador,BA,30.6
+2023-01-24,São Paulo,SP,30.5
+2023-01-24,Rio de Janeiro,RJ,32.2
+2023-01-24,Salvador,BA,28.8
+2023-01-25,São Paulo,SP,31.2
+2023-01-25,Rio de Janeiro,RJ,33.0
+2023-01-25,Salvador,BA,29.5
+2023-01-26,São Paulo,SP,29.8
+2023-01-26,Rio de Janeiro,RJ,32.5
+2023-01-26,Salvador,BA,27.9
+2023-01-27,São Paulo,SP,30.7
+2023-01-27,Rio de Janeiro,RJ,33.5
+2023-01-27,Salvador,BA,28.2
+2023-01-28,São Paulo,SP,31.0
+2023-01-28,Rio de Janeiro,RJ,33.2
+2023-01-28,Salvador,BA,28.7
+2023-01-29,São Paulo,SP,30.2
+2023-01-29,Rio de Janeiro,RJ,32.8
+2023-01-29,Salvador,BA,28.5
+2023-01-30,São Paulo,SP,30.9
+2023-01-30,Rio de Janeiro,RJ,32.7
+2023-01-30,Salvador,BA,29.0
+2023-01-31,São Paulo,SP,30.8
+2023-01-31,Rio de Janeiro,RJ,32.6
+2023-01-31,Salvador,BA,28.8
+2023-02-01,São Paulo,SP,31.5
+2023-02-01,Rio de Janeiro,RJ,33.3
+2023-02-01,Salvador,BA,29.3
+2023-02-02,São Paulo,SP,31.2
+2023-02-02,Rio de Janeiro,RJ,33.1
+2023-02-02,Salvador,BA,29.1
+2023-02-03,São Paulo,SP,30.5
+2023-02-03,Rio de Janeiro,RJ,32.9
+2023-02-03,Salvador,BA,29.2
+2023-02-04,São Paulo,SP,30.1
+2023-02-04,Rio de Janeiro,RJ,32.7
+2023-02-04,Salvador,BA,28.8
+2023-02-05,São Paulo,SP,30.0
+2023-02-05,Rio de Janeiro,RJ,32.5
+2023-02-05,Salvador,BA,28.5
+2023-02-06,São Paulo,SP,29.8
+2023-02-06,Rio de Janeiro,RJ,32.3
+2023-02-06,Salvador,BA,28.2
+2023-02-07,São Paulo,SP,29.7
+2023-02-07,Rio de Janeiro,RJ,32.2
+2023-02-07,Salvador,BA,27.9
+2023-02-08,São Paulo,SP,29.5
+2023-02-08,Rio de Janeiro,RJ,32.0
+2023-02-08,Salvador,BA,27.6
+2023-02-09,São Paulo,SP,29.2
+2023-02-09,Rio de Janeiro,RJ,31.8
+2023-02-09,Salvador,BA,27.3
+2023-02-10,São Paulo,SP,29.0
+2023-02-10,Rio de Janeiro,RJ,31.5
+2023-02-10,Salvador,BA,27.0
+2023-02-11,São Paulo,SP,28.8
+2023-02-11,Rio de Janeiro,RJ,31.2
+2023-02-11,Salvador,BA,26.7
+2023-02-12,São Paulo,SP,28.7
+2023-02-12,Rio de Janeiro,RJ,30.9
+2023-02-12,Salvador,BA,26.5
+2023-02-13,São Paulo,SP,28.0
+2023-01-24,São Paulo,SP,30.5
+2023-01-24,Rio de Janeiro,RJ,32.2
+2023-01-24,Salvador,BA,28.8
+2023-01-25,São Paulo,SP,31.2
+2023-01-25,Rio de Janeiro,RJ,33.0
+2023-01-25,Salvador,BA,29.5
+2023-01-26,São Paulo,SP,29.8
+2023-01-26,Rio de Janeiro,RJ,32.5
+2023-01-26,Salvador,BA,27.9
+2023-01-27,São Paulo,SP,30.7
+2023-01-27,Rio de Janeiro,RJ,33.5
+2023-01-27,Salvador,BA,28.2
+2023-01-28,São Paulo,SP,31.0
+2023-01-28,Rio de Janeiro,RJ,33.2
+2023-01-28,Salvador,BA,28.7
+2023-01-29,São Paulo,SP,30.2
+2023-01-29,Rio de Janeiro,RJ,32.8
+2023-01-29,Salvador,BA,28.5
+2023-01-30,São Paulo,SP,30.9
+2023-01-30,Rio de Janeiro,RJ,32.7
+2023-01-30,Salvador,BA,29.0
+2023-01-31,São Paulo,SP,30.8
+2023-01-31,Rio de Janeiro,RJ,32.6
+2023-01-31,Salvador,BA,28.8
+2023-02-01,São Paulo,SP,31.5
+2023-02-01,Rio de Janeiro,RJ,33.3
+2023-02-01,Salvador,BA,29.3
+2023-02-02,São Paulo,SP,31.2
+2023-02-02,Rio de Janeiro,RJ,33.1
+2023-02-02,Salvador,BA,29.1
+2023-02-03,São Paulo,SP,30.5
+2023-02-03,Rio de Janeiro,RJ,32.9
+2023-02-03,Salvador,BA,29.2
+2023-02-04,São Paulo,SP,30.1
+2023-02-04,Rio de Janeiro,RJ,32.7
+2023-02-04,Salvador,BA,28.8
+2023-02-05,São Paulo,SP,30.0
+2023-02-05,Rio de Janeiro,RJ,32.5
+2023-02-05,Salvador,BA,28.5
+2023-02-06,São Paulo,SP,29.8
+2023-02-06,Rio de Janeiro,RJ,32.3
+2023-02-06,Salvador,BA,28.2
+2023-02-07,São Paulo,SP,29.7
+2023-02-07,Rio de Janeiro,RJ,32.2
+2023-02-07,Salvador,BA,27.9
+2023-02-08,São Paulo,SP,29.5
+2023-02-08,Rio de Janeiro,RJ,32.0
+2023-02-08,Salvador,BA,27.6
+2023-02-09,São Paulo,SP,29.2
+2023-02-09,Rio de Janeiro,RJ,31.8
+2023-02-09,Salvador,BA,27.3
+2023-02-10,São Paulo,SP,29.0
+2023-02-10,Rio de Janeiro,RJ,31.5
+2023-02-10,Salvador,BA,27.0
+2023-02-11,São Paulo,SP,28.8
+2023-02-11,Rio de Janeiro,RJ,31.2
+2023-02-11,Salvador,BA,26.7
+2023-02-12,São Paulo,SP,28.7
+2023-02-12,Rio de Janeiro,RJ,30.9
+2023-02-12,Salvador,BA,26.5
+2023-02-13,São Paulo,SP,28.5
+2023-02-13,Rio de Janeiro,RJ,30.6
+2023-02-13,Salvador,BA,26.2
+2023-02-14,São Paulo,SP,28.3
+2023-02-14,Rio de Janeiro,RJ,30.3
+2023-02-14,Salvador,BA,26.0
+2023-02-15,São Paulo,SP,28.2
+2023-02-15,Rio de Janeiro,RJ,30.0
+2023-02-15,Salvador,BA,25.8
+2023-02-16,São Paulo,SP,28.0
+2023-02-16,Rio de Janeiro,RJ,29.7
+2023-02-16,Salvador,BA,25.6
+2023-02-17,São Paulo,SP,27.8
+2023-02-17,Rio de Janeiro,RJ,29.4
+2023-02-17,Salvador,BA,25.4
+2023-02-18,São Paulo,SP,27.7
+2023-02-18,Rio de Janeiro,RJ,29.2
+2023-02-18,Salvador,BA,25.2
+2023-02-19,São Paulo,SP,27.5
+2023-02-19,Rio de Janeiro,RJ,28.9
+2023-02-19,Salvador,BA,25.0
+2023-02-20,São Paulo,SP,27.3
+2023-02-20,Rio de Janeiro,RJ,28.6
+2023-02-20,Salvador,BA,24.8
+2023-02-21,São Paulo,SP,27.2
+2023-02-21,Rio de Janeiro,RJ,28.3
+2023-02-21,Salvador,BA,24.6
+2023-02-22,São Paulo,SP,27.0
+2023-02-22,Rio de Janeiro,RJ,28.0
+2023-02-22,Salvador,BA,24.4
+2023-02-23,São Paulo,SP,26.8
+2023-02-23,Rio de Janeiro,RJ,27.7
+2023-02-23,Salvador,BA,24.2
+2023-02-24,São Paulo,SP,26.7
+2023-02-24,Rio de Janeiro,RJ,27.4
+2023-02-24,Salvador,BA,24.0
+2023-02-25,São Paulo,SP,26.5
+2023-02-25,Rio de Janeiro,RJ,27.2
+2023-02-25,Salvador,BA,23.8
+2023-02-26,São Paulo,SP,26.3
+2023-02-26,Rio de Janeiro,RJ,27.0
+2023-02-26,Salvador,BA,23.6
+2023-02-27,São Paulo,SP,26.2
+2023-02-27,Rio de Janeiro,RJ,26.8
+2023-02-27,Salvador,BA,23.4
+2023-02-28,São Paulo,SP,26.0
+2023-02-28,Rio de Janeiro,RJ,26.6
+2023-02-28,Salvador,BA,23.2
+2023-03-01,São Paulo,SP,25.8
+2023-03-01,Rio de Janeiro,RJ,26.4
+2023-03-01,Salvador,BA,23.0
+2023-03-02,São Paulo,SP,25.6
+2023-03-02,Rio de Janeiro,RJ,26.2
+2023-03-02,Salvador,BA,22.8
+2023-03-03,São Paulo,SP,25.4
+2023-03-03,Rio de Janeiro,RJ,25.9
+2023-03-03,Salvador,BA,22.6
+2023-03-04,São Paulo,SP,25.2
+2023-03-04,Rio de Janeiro,RJ,25.6
+2023-03-04,Salvador,BA,22.4
+2023-03-05,São Paulo,SP,25.0
+2023-03-05,Rio de Janeiro,RJ,25.3
+2023-03-05,Salvador,BA,22.2
+2023-03-06,São Paulo,SP,24.8
+2023-03-06,Rio de Janeiro,RJ,25.0
+2023-03-06,Salvador,BA,22.0
+2023-03-07,São Paulo,SP,24.6
+2023-03-07,Rio de Janeiro,RJ,24.7
+2023-03-07,Salvador,BA,21.8
+2023-03-08,São Paulo,SP,24.4
+2023-03-08,Rio de Janeiro,RJ,24.4
+2023-03-08,Salvador,BA,21.6
+2023-03-09,São Paulo,SP,24.2
+2023-03-09,Rio de Janeiro,RJ,24.1
+2023-03-09,Salvador,BA,21.4
+2023-03-10,São Paulo,SP,24.0
+2023-03-10,Rio de Janeiro,RJ,23.9
+2023-03-10,Salvador,BA,21.2
+2023-03-11,São Paulo,SP,23.8
+2023-03-11,Rio de Janeiro,RJ,23.7
+2023-03-11,Salvador,BA,21.0
+2023-03-12,São Paulo,SP,23.6
+2023-03-12,Rio de Janeiro,RJ,23.5
+2023-03-12,Salvador,BA,20.8
+2023-03-13,São Paulo,SP,23.4
+2023-03-13,Rio de Janeiro,RJ,23.3
+2023-03-13,Salvador,BA,20.6
+2023-03-14,São Paulo,SP,23.2
+2023-03-14,Rio de Janeiro,RJ,23.1
+2023-03-14,Salvador,BA,20.4
+2023-03-15,São Paulo,SP,23.0
+2023-03-15,Rio de Janeiro,RJ,22.9
+2023-03-15,Salvador,BA,20.2
+2023-03-16,São Paulo,SP,22.8
+2023-03-16,Rio de Janeiro,RJ,22.7
+2023-03-16,Salvador,BA,20.0
+2023-03-17,São Paulo,SP,22.6
+2023-03-17,Rio de Janeiro,RJ,22.5
+2023-03-17,Salvador,BA,19.8
+2023-03-18,São Paulo,SP,22.4
+2023-03-18,Rio de Janeiro,RJ,22.3
+2023-03-18,Salvador,BA,19.6
+2023-03-19,São Paulo,SP,22.2
+2023-03-19,Rio de Janeiro,RJ,22.1
+2023-03-19,Salvador,BA,19.4
+2023-03-20,São Paulo,SP,22.0
+2023-03-20,Rio de Janeiro,RJ,21.9
+2023-03-20,Salvador,BA,19.2
+2023-03-21,São Paulo,SP,21.8
+2023-03-21,Rio de Janeiro,RJ,21.7
+2023-03-21,Salvador,BA,19.0
+2023-03-22,São Paulo,SP,21.6
+2023-03-22,Rio de Janeiro,RJ,21.5
+2023-03-22,Salvador,BA,18.8
+2023-03-23,São Paulo,SP,21.4
+2023-03-23,Rio de Janeiro,RJ,21.3
+2023-03-23,Salvador,BA,18.6
+2023-03-24,São Paulo,SP,21.2
+2023-03-24,Rio de Janeiro,RJ,21.1
+2023-03-24,Salvador,BA,18.4
+
+
+
+
