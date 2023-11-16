@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Carregar os dados do arquivo CSV corrigido do GitHub
+# Carregar os dados do arquivo CSV corrigido do GitHub = 245 KB (250.934 bytes) de dados
 url = "https://raw.githubusercontent.com/gbyteinfo/Aulas-Big-Data-Unimetrocamp/develop/dados_incendios_brasil.csv"
 dados_incendios = pd.read_csv(url)
 
